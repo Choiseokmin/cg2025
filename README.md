@@ -9,3 +9,4 @@ cg2025
 ![opencvDrawing](https://github.com/user-attachments/assets/f546b8e2-7249-453e-b0d6-cdc4223c1a44)
 ![euclid](https://github.com/user-attachments/assets/e542822c-ecee-4f12-8c81-cb623a150e14)
 ![coordinateFreeSystem](https://github.com/user-attachments/assets/98422cf8-626c-4cc2-a9a2-094d6cb88d14)
+https://youtu.be/n2Vjb2vMANw
