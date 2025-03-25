@@ -7,8 +7,11 @@ cg2025
 ![opencvMouse](https://github.com/user-attachments/assets/0539e777-8031-4113-9b30-a1f51de080b0)
 ![opencvSubplot](https://github.com/user-attachments/assets/8fa8d6c3-510f-4b5e-a6b1-d3400816705b)
 ![opencvDrawing](https://github.com/user-attachments/assets/f546b8e2-7249-453e-b0d6-cdc4223c1a44)
-![euclid](https://github.com/user-attachments/assets/e542822c-ecee-4f12-8c81-cb623a150e14)
-![coordinateFreeSystem](https://github.com/user-attachments/assets/98422cf8-626c-4cc2-a9a2-094d6cb88d14)
 
 # HW1
 https://youtu.be/n2Vjb2vMANw
+
+# HW2
+
+![euclid](https://github.com/user-attachments/assets/e542822c-ecee-4f12-8c81-cb623a150e14)
+![coordinateFreeSystem](https://github.com/user-attachments/assets/98422cf8-626c-4cc2-a9a2-094d6cb88d14)
