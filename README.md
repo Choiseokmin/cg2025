@@ -1,6 +1,6 @@
 # Homework list
 
-# Homework 1
+## Homework 1
 https://youtu.be/n2Vjb2vMANw
 <!--
 # HW2
